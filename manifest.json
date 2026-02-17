@@ -1,5 +1,6 @@
 {
-  "version": "0.3.3",
-  "zip_url": "https://github.com/KronosSoftworks/K-Launcher/raw/refs/heads/master/K-Launcher v0.3.3.zip.enc",
-  "zip_md5": "f72f68a40883e5849f0df2193d948b48"
+  "version": "0.3.4",
+  "zip_url": "https://github.com/KronosSoftworks/K-Launcher/raw/master/K-Launcher v0.3.4.zip.enc",
+  "zip_sha256": "1cfe72557e49a59cc0743732d627eefcab9b21398382bad04bc9ef42bed2017a",
+  "version_message": "[OLD INSTALLER/UPDATER DOES NOT SUPPORT THIS UPDATE - ASK KRONOS FOR THE NEW ONE. DO NOT CLICK YES, IT WILL FAIL!]\\nBetter installer hash verification, added version message."
 }
